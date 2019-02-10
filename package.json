@@ -1,0 +1,14 @@
+{
+  "name": "instagram",
+  "version": "1.0.0",
+  "description": "Instagram plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Oleksandr Gonchar <goncharao.ukr@gmail.com> (https://linkedin.com/in/oleksandr-gonchar-949800aa)",
+  "license": "MIT",
+  "dependencies": {
+    "protractor": "5.3.0"
+  }
+}
